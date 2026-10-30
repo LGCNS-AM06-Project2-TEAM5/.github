@@ -10,10 +10,8 @@ LG CNS AM INSPIRE CAMP 6기 미니프로젝트 2 · 2026-10-30 ~ 11-05
 |---|---|
 | [hyeja-msa](https://github.com/LGCNS-AM06-Project2-TEAM5/hyeja-msa) | 2차 작업 저장소. Eureka·Gateway·Config와 서비스 5개, Docker Compose, 산출물 문서 |
 | [hyeja-config](https://github.com/LGCNS-AM06-Project2-TEAM5/hyeja-config) | Spring Cloud Config Server 설정 저장소 |
-| [hyeja-backend](https://github.com/LGCNS-AM06-Project2-TEAM5/hyeja-backend) | 1차 혜자 백엔드 원본 사본 (보관, 수정 금지) |
-| [hyeja-frontend](https://github.com/LGCNS-AM06-Project2-TEAM5/hyeja-frontend) | 1차 혜자 프런트엔드 원본 사본 (보관, 수정 금지) |
-
-1차 혜자 원본: [Hyejabonjuui](https://github.com/Hyejabonjuui)
+| [hyeja-backend](https://github.com/LGCNS-AM06-Project2-TEAM5/hyeja-backend) | 혜자 백엔드 코드. 서비스로 나눌 코드를 가져오는 곳 |
+| [hyeja-frontend](https://github.com/LGCNS-AM06-Project2-TEAM5/hyeja-frontend) | 혜자 프런트엔드. Gateway 연결과 화면 수정 |
 
 ## 시작하기
 
